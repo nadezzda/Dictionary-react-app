@@ -1,0 +1,10 @@
+.Results {
+   text-align: left; 
+   margin: 20px 50px;
+   padding: 50px;
+   border: 1px solid rgb(162, 162, 162);
+   border-radius: 20px;
+}
+h2, h3 {
+    text-align: center;
+}

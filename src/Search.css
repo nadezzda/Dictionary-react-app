@@ -1,5 +1,6 @@
 .Engine{
     margin: 20px auto;
+    padding: 20px;
 }
 
 .search-form {
@@ -12,4 +13,7 @@
     color: blue;
     border-radius: 10px;
     border: 2px solid blue;
+}
+h2 {
+    text-transform: uppercase;
 }

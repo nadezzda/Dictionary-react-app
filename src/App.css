@@ -2,9 +2,11 @@
   text-align: center;
 }
 h1 {
-  margin: 20px;
-  font-family: monospace;
+  margin: 50px 50px 20px;
+  font-family: var(--general-font);
+  color: var(--fourth-color);
 }
 footer p {
   font-family: monospace;
+  color: var(--first-color);
 }

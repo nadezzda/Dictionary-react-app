@@ -1,10 +1,37 @@
 .Results {
    text-align: left; 
-   margin: 20px 50px;
+   color: var(--fourth-color);
+   margin: 50px;
    padding: 50px;
-   border: 1px solid blue;
    border-radius: 20px;
+   background-color: var(--first-color);
+   box-shadow: var(--general-shadow);
+   font-family: var(--general-font);
 }
-h2, h3 {
+.Phonetic {
+    font-size: 20px;
+}
+h2 {
     text-align: center;
+}
+h3 {
+    text-transform: capitalize;
+}
+.Example {
+    color: var(--third-color);
+    font-size: 15px;
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+}
+ul {
+    display: flex;
+}
+li {
+    list-style-type: none;
+    border-radius: 20px;
+    background-color: var(--third-color);
+    color: var(--first-color);
+    padding: 5px 10px;
+    margin: 1%;
 }

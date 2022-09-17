@@ -1,12 +1,19 @@
-.App {
-  text-align: center;
-}
+
 h1 {
-  margin: 50px 50px 20px;
+  margin: 50px 50px 50px;
   font-family: var(--general-font);
   color: var(--fourth-color);
+  text-align: center;
 }
 footer p {
+  margin-top: 50px;
   font-family: monospace;
   color: var(--first-color);
+  text-align: center;
+}
+footer a {
+  color: var(--third-color);
+}
+footer a:hover {
+  color: var(--fourth-color);
 }

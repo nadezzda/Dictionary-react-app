@@ -3,8 +3,9 @@
   --second-color: #a2a8d3; 
   --third-color: #5f83ba; 
   --fourth-color: #2a5e8b; 
-  --general-shadow: 2px 5px 5px rgba( 0, 0, 0, 0.4);
+  --general-shadow: 0 10px 10px rgba( 0, 0, 0, 0.1);
   --general-font: 'Averia Libre', cursive;
+  --general-border: 8px;
 }
 
 body {

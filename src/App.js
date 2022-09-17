@@ -9,9 +9,9 @@ function App() {
 <header>
   <h1>Dictionary</h1>
 </header>
-    <Search />
+    <Search defaultKeyword="dictionary" />
 <footer>
-  <p>Coded by Malichenko Nadiia</p>
+  <p>Coded by Malichenko Nadiia, and is <a href='https://github.com/nadezzda/Dictionary-react-app' title='GitHub repository' target="_blank">open-sourced</a></p>
 </footer>
     </div>
   );

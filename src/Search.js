@@ -44,7 +44,7 @@ export default function SearchEngine(props) {
     }
     if (loaded) {
     return(
-        <div>
+        <div className="Search">
             <div className="Engine">
                 <section>
                 <form onSubmit={handeSubmit}>

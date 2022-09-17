@@ -1,0 +1,15 @@
+.photos {
+    width: 60%;
+    color: var(--fourth-color);
+    margin: 30px auto;
+    padding: 40px;
+    border-radius: var(--general-border);
+    background-color: var(--first-color);
+    box-shadow: var(--general-shadow);
+    display: flex;
+    justify-content: space-between;
+}
+.photos img {
+    margin-bottom: 15px;
+    border-radius: 4px;
+}

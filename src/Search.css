@@ -9,6 +9,8 @@
 }
 .search-form {
     width: 70%;
+    margin-top: 25px;
+    margin-left: 90px;
     height: 35px;
     color: var(--third-color);
 }
@@ -26,4 +28,13 @@
     padding: 5px 20px 0;
     color: var(--second-color);
     font-size: 12px;
+}
+
+@media (max-width: 990px) {
+    .Engine section {
+        width: 90%;
+    }
+    .search-form {
+        margin-left: 40px;
+    }
 }

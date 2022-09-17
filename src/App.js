@@ -11,7 +11,7 @@ function App() {
 </header>
     <Search defaultKeyword="dictionary" />
 <footer>
-  <p>Coded by Malichenko Nadiia, and is <a href='https://github.com/nadezzda/Dictionary-react-app' title='GitHub repository'>open-sourced</a></p>
+  <p>Coded by Malichenko Nadiia, and is <a href='https://github.com/nadezzda/Dictionary-react-app' title='GitHub repository' target="_blank" rel="noreferrer">open-sourced</a></p>
 </footer>
     </div>
   );

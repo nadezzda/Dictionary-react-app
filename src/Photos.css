@@ -13,3 +13,9 @@
     margin-bottom: 15px;
     border-radius: 4px;
 }
+
+@media (max-width: 990px) {
+    .photos {
+        width: 90%;
+    }
+}

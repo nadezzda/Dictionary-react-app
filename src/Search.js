@@ -49,7 +49,7 @@ export default function SearchEngine(props) {
                 <section>
                 <form onSubmit={handeSubmit}>
                     <input className="search-form" type="search" placeholder="Enter a word..." onChange={handleKeywordChange}/>
-                    <button className="btn">Search</button>
+                    <button className="btn d-none d-md-inline">Search</button>
                 </form>
                 <div className="hint">Suggested words: sun, wine, sea, wave...</div>
                 </section>

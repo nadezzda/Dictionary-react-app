@@ -53,3 +53,12 @@ h3 {
 ul {
     margin-top: 50px;
 }
+
+@media (max-width: 990px) {
+    .Results .word {
+        width: 90%;
+    }
+    .Results .result {
+        width: 90%;
+    }
+}
